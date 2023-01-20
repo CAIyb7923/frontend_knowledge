@@ -42,22 +42,22 @@ _斜体文本_
 ### 无序列表
 使用`-`、`+`和`*`作为列表标记：
 ```
--Apple
--Banana
--Orange
+- Apple
+- Banana
+- Orange
 
-+Apple
-+Banana
-+Orange
++ Apple
++ Banana
++ Orange
 
-*Apple
-*Banana
-*Orange
+* Apple
+* Banana
+* Orange
 ```
 ### 有序列表
 使用数字加英文句点`.`来表示：
 ```
-1.Apple
-2.Banana
-3.Orange
+1. Apple
+2. Banana
+3. Orange
 ```
